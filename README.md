@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vishwangar R, and I'm a Passionate Learner from Madurai.</h2>
+<h2 align="left">Hi 👋! My name is Vishwangar R, and I'm an Enthusiastic Engineering Student from M.Kumarasamy College of Engineering.</h2>
 
 ---
 
